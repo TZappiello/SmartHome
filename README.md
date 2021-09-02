@@ -1,2 +1,2 @@
 # SmartHome
-Treino de Interface e Classes 
+Treino de Interface e Classe 
